@@ -1,7 +1,13 @@
 ;;;; HN Personal Websites Directory
 ;;;; ==============================
 
-((:name "Jeff Geerling"
+((:name "Anthony Bonkoski"
+  :site "https://xorvoid.com/"
+  :feed "https://xorvoid.com/rss.xml"
+  :hnuid "xorvoid"
+  :bio "Writes abot low-level programming and mathematics")
+
+ (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
   :about "https://www.jeffgeerling.com/about/"
