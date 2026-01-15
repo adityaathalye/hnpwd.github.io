@@ -10,6 +10,12 @@
   :hnuid "adityaathalye"
   :bio "Your next-door bitemporal DB-curious, Bash enjoyer, explainer and speaker.")
 
+ (:name "Alan Grow"
+  :site "https://alangrow.com/"
+  :feed "https://alangrow.com/blog/atom.xml"
+  :hnuid "sigil"
+  :bio "Art-tech software developer and founder.")
+
  (:name "Alex Narayan"
   :site "https://gigatexal.blog/"
   :about "https://gigatexal.blog/pages/about/about.html"

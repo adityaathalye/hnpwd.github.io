@@ -13,6 +13,7 @@ pr:
 	@echo; echo 'Enter remote URL <space> branch to fetch:'
 	@read answer && git fetch $$answer:pr; echo
 	git log -n 2 pr
+	git diff pr^!
 
 co:
 	git add -p
