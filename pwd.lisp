@@ -66,7 +66,6 @@
   :hnuid "jszymborski"
   :bio "Computational biology researcher.  Writes about technology and society.")
 
-
  (:name "Karl Knechtel"
   :site "https://zahlman.github.io/"
   :feed "https://zahlman.github.io/rss.xml"
@@ -87,6 +86,12 @@
   :about "https://laurentrdc.xyz/about"
   :hnuid "cosmic_quanta"
   :bio "Writes about software.  On the Haskell Foundation Board of Directors.")
+
+ (:name "Matt Crampton"
+  :site "https://www.mattcrampton.com"
+  :feed "https://www.mattcrampton.com/feed.xml"
+  :hnuid "revicon"
+  :bio "Writes about software development, startups, camping and beards")
 
  (:name "Matteo"
   :site "https://xnacly.me/"
@@ -168,10 +173,13 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
- (:name "Matt Crampton"
-  :site "https://www.mattcrampton.com"
-  :feed "https://www.mattcrampton.com/feed.xml"
-  :hnuid "revicon"
-  :bio "A blog about software development, startups, camping and beards")
+ (:name ""
+  :site ""
+  :blog ""
+  :feed ""
+  :about ""
+  :now ""
+  :hnuid ""
+  :bio "")
 
  (:end))
