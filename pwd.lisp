@@ -22,6 +22,13 @@
   :hnuid "gigatexal"
   :bio "Writes about computers and technology.")
 
+ (:name "Andrew Montalenti"
+  :site "https://amontalenti.com/"
+  :feed "https://amontalenti.com/feed"
+  :about "https://amontalenti.com/about"
+  :hnuid "pixelmonkey"
+  :bio "Founder of PX. Formerly founding CTO of Parse.ly. Pythonista and UNIX lover.")
+
  (:name "Anthony Bonkoski"
   :site "https://xorvoid.com/"
   :feed "https://xorvoid.com/rss.xml"
